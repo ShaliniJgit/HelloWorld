@@ -13,6 +13,8 @@ namespace Hello_world
         {
             System.Console.WriteLine("Hello world");
             System.Console.WriteLine("hi");
+            System.Console.WriteLine("First program");
+
         }
     }
 }
